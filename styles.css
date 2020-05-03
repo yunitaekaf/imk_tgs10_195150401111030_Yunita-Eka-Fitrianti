@@ -1,0 +1,47 @@
+		.beranda {
+			background-color: peachpuff;
+			font-family:Helvetica;
+			color: maroon;
+			font-size: 18px;
+		}
+		
+		.hubungi {
+			background-color : mistyrose;
+			font-family:times new roman;
+			color: maroon;
+		}
+		
+		.index {
+			background-color: beige;
+		}
+		
+		.circular {
+			border-radius: 50px;
+			height: 250px;
+		}
+		
+		#profil {
+			font-family: georgia;
+			color: olive;
+		}
+		
+		#hubungi {
+			font-family: verdana;
+			color: maroon;
+		}
+		
+		#beranda {
+			font-family: verdana;
+			color: indianred;
+		}
+		
+		
+		hr {
+			border-style: none;
+			border-top-style: dotted;
+			border-color: rosybrown;
+			border-width: 8px;
+			width: 60%;
+		}
+		
+		
